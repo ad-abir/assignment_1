@@ -72,6 +72,11 @@ body, html {
 .contact-info p {
     font-size: 14px;
     color: #888;
+    cursor: pointer;
+}
+
+.contact-info p:hover {
+    color: black;
 }
 
 @media (max-width: 400px) {
